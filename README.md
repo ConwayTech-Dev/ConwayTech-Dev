@@ -1,7 +1,10 @@
-- 👋 Hi, I’m ConwayTech.
-- 👀 I’m interested in HTML, Python, JavaScript, Java, and CSS.
+<h2 align="center">Hi there! 👋</h2>
+- 🔭 I'm currently working on an [Electron wrapper for a website I use a lot](https://github.com/ConwayTech-Dev/MyPolyPlus)
+- ⚡ I like to code webdev-related projects and also Python code
+- 🌐 My go-to JavaScript frameworks are [Svelte](https://svelte.dev/), [Astro](https://astro.build/), and [React](https://react.dev/)
+- 📫 You can reach me at my Discord at <code>conwaytech</code>
 
-<!---
-ConwayTech-Dev/ConwayTech-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+***
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
