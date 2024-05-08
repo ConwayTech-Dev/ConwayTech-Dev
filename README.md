@@ -10,9 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         9 mins          ██████████▒░░░░░░░░░░░░░░   40.78 %
-CSS          7 mins          ████████░░░░░░░░░░░░░░░░░   31.88 %
-TypeScript   6 mins          ███████░░░░░░░░░░░░░░░░░░   27.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
