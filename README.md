@@ -10,7 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     9 mins          █████████████████████▒░░░   85.43 %
+HTML         1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Docker       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
