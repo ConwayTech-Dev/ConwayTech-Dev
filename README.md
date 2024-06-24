@@ -10,7 +10,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Git Config   8 mins          ███████████▓░░░░░░░░░░░░░   46.28 %
+JavaScript   4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
+HTML         4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
