@@ -11,7 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Astro        1 hr 59 mins    ███████████████████████▓░   94.76 %
+Python       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
