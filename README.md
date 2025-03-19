@@ -10,7 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML              3 mins          █████████████████▓░░░░░░░   70.71 %
+Gettext Catalog   1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
+JSON              0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
