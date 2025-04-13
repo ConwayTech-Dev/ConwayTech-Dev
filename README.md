@@ -10,9 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSS      0 secs          ██████████████▒░░░░░░░░░░   56.72 %
-HTML     0 secs          ██████████▓░░░░░░░░░░░░░░   42.64 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
